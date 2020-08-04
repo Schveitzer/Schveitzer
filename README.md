@@ -1,7 +1,16 @@
-### 👋 Hello, I'm Alan! 
+### 👋 Hello, I'm Alan!
+
+<a target="_blank" href="https://www.linkedin.com/in/alansc/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:alan.schveitzer@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</br>
+
 ---- 
 I am a Software Test Engineer(Qa), **27 years old** and **5 years of experience**.
 
+📌  Living in <b>São José</b>, <b>Santa Catarina</b>, <b>Brazil</b>
 ----
 
 **Languages and Tools:**  
