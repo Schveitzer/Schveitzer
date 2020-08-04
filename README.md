@@ -29,6 +29,7 @@
 <code title="WebdriverIO"><img height="30" src="https://www.testautomation.app/wp-content/uploads/2018/11/webdriver-robot-with-dots.png"></code>
 <code title="Appium"><img height="30" src="https://api.iconify.design/logos:appium.svg"></code>
 <code title="Cucumber"><img height="30" src="https://api.iconify.design/logos:cucumber.svg"></code>
+<br/>
 <code title="Pytest"><img height="30" src="https://tetamap.files.wordpress.com/2015/02/pytest1.png"></code>
 <code title="Behave"><img height="30" src="https://behave.readthedocs.io/en/latest/_static/behave_logo1.png"></code>
 <code title="Jira"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png"></code>
