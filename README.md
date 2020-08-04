@@ -18,7 +18,7 @@
 
 **Languages and Tools:**  
 
-<code><title="alan" img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code title="alan"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://api.iconify.design/logos:python.svg"></code>
 <code><img height="35" src="https://api.iconify.design/logos:java.svg"></code>
 <code><img height="35" src="https://w7.pngwing.com/pngs/552/345/png-transparent-sql-database-computer-icons-sql-icon-blue-text-rectangle.png"></code>
