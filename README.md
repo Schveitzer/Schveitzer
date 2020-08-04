@@ -15,7 +15,7 @@
 
 🤓 I am a Software Test Engineer(Qa), **28 years old** and **5 years of experience**.
 
-🇧🇷 Lving in Florianópolis, Santa Catarina, Brazil.
+🇧🇷 Living in Florianópolis, Santa Catarina, Brazil.
 
 ----
 
