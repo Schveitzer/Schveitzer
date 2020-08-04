@@ -10,9 +10,9 @@
 
 ---- 
 
-I am a Software Test Engineer(Qa), **27 years old** and **5 years of experience**.
+🤓 I am a Software Test Engineer(Qa), **27 years old** and **5 years of experience**.
 
-Lving in São José, Santa Catarina, Brazil.
+🇧🇷 Lving in São José, Santa Catarina, Brazil.
 
 ----
 
@@ -20,13 +20,20 @@ Lving in São José, Santa Catarina, Brazil.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://api.iconify.design/logos:python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://api.iconify.design/logos:java.svg"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/552/345/png-transparent-sql-database-computer-icons-sql-icon-blue-text-rectangle.png"></code>
+<code><img height="20" src="https://api.iconify.design/logos:selenium.svg"></code>
+<code><img height="20" src="https://www.testautomation.app/wp-content/uploads/2018/11/webdriver-robot-with-dots.png"></code>
+<code><img height="20" src="https://api.iconify.design/logos:appium.svg"></code>
+<code><img height="20" src="https://api.iconify.design/logos:cucumber.svg"></code>
+<code><img height="20" src="https://tetamap.files.wordpress.com/2015/02/pytest1.png"></code>
+<code><img height="20" src="https://behave.readthedocs.io/en/latest/_static/behave_logo1.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png"></code>
+<code><img height="20" src="https://api.iconify.design/logos:postman.svg"></code>
+<code><img height="20" src="https://api.iconify.design/logos:git-icon.svg"></code>
+<code><img height="20" src="https://api.iconify.design/logos:docker-icon.svg"></code>
+<code><img height="20" src="https://p7.hiclipart.com/preview/483/345/293/android-studio-integrated-development-environment-intellij-idea-software-build-studio.jpg"></code>
+<code><img height="20" src="https://api.iconify.design/logos:jenkins.svg"></code>
 
 ----
 
