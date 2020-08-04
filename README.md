@@ -6,6 +6,9 @@
 <a target="_blank" href="mailto:alan.schveitzer@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>  
+<a target="_blank" href="https://schveitzer.github.io/">
+  <img align="left" alt="Site" width="22px" src="https://api.iconify.design/dashicons:admin-site.svg" />
+</a>  
 </br>
 
 ---- 
