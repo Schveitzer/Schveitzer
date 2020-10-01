@@ -40,13 +40,15 @@
 <code title="Android Studio"><img height="30" src="https://p7.hiclipart.com/preview/483/345/293/android-studio-integrated-development-environment-intellij-idea-software-build-studio.jpg"></code>
 <code title="Jenkins"><img height="30" src="https://api.iconify.design/logos:jenkins.svg"></code>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Schveitzer/count.svg" />
-</p>
-
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
 ![Schveitzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Schveitzer&show_icons=true)
+
+----
+
+<p align="center">
+  Visitas<br>
+  <img src="https://profile-counter.glitch.me/Schveitzer/count.svg" />
+</p>
