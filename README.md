@@ -40,6 +40,11 @@
 <code title="Android Studio"><img height="30" src="https://p7.hiclipart.com/preview/483/345/293/android-studio-integrated-development-environment-intellij-idea-software-build-studio.jpg"></code>
 <code title="Jenkins"><img height="30" src="https://api.iconify.design/logos:jenkins.svg"></code>
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MarcosEllys/count.svg" />
+</p>
+
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
