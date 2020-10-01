@@ -42,7 +42,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MarcosEllys/count.svg" />
+  <img src="https://profile-counter.glitch.me/Schveitzer/count.svg" />
 </p>
 
 ----
