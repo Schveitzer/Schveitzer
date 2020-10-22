@@ -2,7 +2,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schveitzer&layout=compact&langs_count=6&hide=css&hide=scss"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schveitzer&layout=compact&langs_count=6&hide=css,html"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
