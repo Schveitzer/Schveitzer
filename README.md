@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schveitzer&layout=compact&langs_count=6"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Schveitzer&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+----
+
 ### 👋 Hello, I'm Alan!
 
 <a target="_blank" href="https://www.linkedin.com/in/alansc/">
@@ -39,12 +56,6 @@
 <code title="Docker"><img height="30" src="https://api.iconify.design/logos:docker-icon.svg"></code>
 <code title="Android Studio"><img height="30" src="https://p7.hiclipart.com/preview/483/345/293/android-studio-integrated-development-environment-intellij-idea-software-build-studio.jpg"></code>
 <code title="Jenkins"><img height="30" src="https://api.iconify.design/logos:jenkins.svg"></code>
-
-----
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-   
-![Schveitzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Schveitzer&show_icons=true)
 
 ----
 
