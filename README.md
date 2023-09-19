@@ -30,7 +30,7 @@
 
 ---- 
 
-🤓 I am a Software Test Engineer(Qa), **30 years old** and **5 years of experience**.
+🤓 I am a Software Test Engineer(Qa), **31 years old** and **7 years of experience**.
 
 🚩 Living in Florianópolis, Santa Catarina, Brazil.
 
@@ -40,14 +40,16 @@
 
 <code title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code title="Python"><img height="30" src="https://api.iconify.design/logos:python.svg"></code>
-<code title="Java"><img height="30" src="https://api.iconify.design/logos:java.svg"></code>
 <code title="SQL"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png"></code>
+<code title="Playwright"><img height="30" src="https://api.iconify.design/logos/playwright.svg"></code>
 <code title="Selenium"><img height="30" src="https://api.iconify.design/logos:selenium.svg"></code>
 <code title="WebdriverIO"><img height="30" src="https://www.testautomation.app/wp-content/uploads/2018/11/webdriver-robot-with-dots.png"></code>
+<code title="Cypress"><img height="30" src="https://api.iconify.design/logos/cypress-icon.svg"></code>
 <code title="Appium"><img height="30" src="https://api.iconify.design/logos:appium.svg"></code>
 <code title="Cucumber"><img height="30" src="https://api.iconify.design/logos:cucumber.svg"></code>
 <br>
 <br/>
+<code title="AWS"><img height="30" src="https://api.iconify.design/skill-icons/aws-dark.svg"></code>
 <code title="Pytest"><img height="30" src="https://tetamap.files.wordpress.com/2015/02/pytest1.png"></code>
 <code title="Behave"><img height="30" src="https://behave.readthedocs.io/en/latest/_static/behave_logo1.png"></code>
 <code title="Jira"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/jira-282222.png"></code>
