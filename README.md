@@ -34,6 +34,8 @@
 
 🚩 Living in Florianópolis, Santa Catarina, Brazil.
 
+📖 [My thesis on Fully Automated Web Accessibility Testing (PT-BR)](https://repositorio.ufsc.br/bitstream/handle/123456789/232967/Monografia_Alan_Schveitzer.pdf)
+
 ----
 
 **Languages and Tools:**  
@@ -61,7 +63,32 @@
 
 ----
 
-<p align="center">
-  Visitas<br>
-  <img src="https://profile-counter.glitch.me/Schveitzer/count.svg" />
-</p>
+### Repositores
+
+#### JavaScript
+
+- [playwright_javascript_tests](https://github.com/Schveitzer/playwright_javascript_tests)
+- [cypress_e2e_testes](https://github.com/Schveitzer/cypress_e2e_testes)
+- [webdriverio-appium-cucumber](https://github.com/Schveitzer/webdriverio-appium-cucumber-boilerplate)
+- [api-tests-supertest-jest](https://github.com/Schveitzer/api-tests-supertest-jest)
+- [testes-api-banco-central](https://github.com/Schveitzer/testes-api-banco-central)
+- [testes_api_json_placeholder](https://github.com/Schveitzer/testes_api_json_placeholder)
+- [cypress_accessibility_tests](https://github.com/Schveitzer/cypress_accessibility_tests)
+- [SuperTest_poc](https://github.com/Schveitzer/SuperTest_poc)
+
+#### Python
+- [playwright_python_tests](https://github.com/Schveitzer/playwright_python_tests)
+- [api-tests-python-pytest](https://github.com/Schveitzer/api-tests-python-pytest)
+- [selenium-python-distributed-parallelized-tests](https://github.com/Schveitzer/selenium-python-distributed-parallelized-tests)
+- [robot_playwright_tests ](https://github.com/Schveitzer/robot_playwright_tests)
+- [fastapi-kafka-with-integrastion-tests ](https://github.com/Schveitzer/fastapi-kafka-with-integrastion-tests)
+- [locust-load-test-graphql ](https://github.com/Schveitzer/locust-load-test-graphql)
+- [api-tests-python-pytest](https://github.com/Schveitzer/api-tests-python-pytest)
+- [selenium-python-bdd-behave-example ](https://github.com/Schveitzer/selenium-python-bdd-behave-example)
+- [testes_api_OpenWeather ](https://github.com/Schveitzer/testes_api_OpenWeather)
+
+#### Others
+- [android-app-ui-tests-with-barista](https://github.com/Schveitzer/android-app-ui-tests-with-barista)
+- [simple-api-jwt-server](https://github.com/Schveitzer/simple-api-jwt-server)
+- [schveitzer.github.io ](https://github.com/Schveitzer/schveitzer.github.io)
+
