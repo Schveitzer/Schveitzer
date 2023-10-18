@@ -75,6 +75,8 @@
 - [simple-api-jwt-server](https://github.com/Schveitzer/simple-api-jwt-server)
 - [schveitzer.github.io ](https://github.com/Schveitzer/schveitzer.github.io)
 
+----
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
