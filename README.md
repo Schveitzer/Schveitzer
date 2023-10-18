@@ -46,7 +46,7 @@
 
 ----
 
-### Repositors
+### Repositories
 
 #### JavaScript
 
